@@ -1,0 +1,18 @@
+# Compressed archives
+*.zip
+
+# Debug logs
+debug.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# TCPDF cache
+Backend/tcpdf/cache/
+Doctor/tcpdf/cache/
+Patient/tcpdf/cache/
