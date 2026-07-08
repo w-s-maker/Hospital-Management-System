@@ -56,14 +56,6 @@ The system supports **five distinct user roles**, each with a tailored dashboard
 - **Data Access Logs** recording who accessed which patient data and when
 - Input sanitization and parameterized queries (PDO) to prevent SQL injection
 
-### 💰 Billing & Payment Gateway
-- Doctors can generate and manage invoices tied to appointments
-- Patients can view billing history and download PDF invoices
-- **M-Pesa integration** for mobile payments (Kenya's leading mobile money platform)
-- **Card payment** support
-- Transaction tokenization for payment security
-- Payment statuses: Pending, Paid, Failed, Refunded
-
 ### 📋 Medical Records Management
 - Patients can submit and upload medical history documents
 - Doctors can view encrypted medical records for their assigned patients
