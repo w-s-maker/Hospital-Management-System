@@ -1,6 +1,6 @@
 # 🏥 Afya Hospital Management System
 
-> **A comprehensive, full-stack Hospital Management System built to revolutionize healthcare delivery — powered by an integrated AI Assistant that puts patients first.**
+> **A comprehensive, full-stack Hospital Management System built to revolutionize healthcare delivery — That puts patients first.**
 
 [![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-MariaDB-4479A1?logo=mysql&logoColor=white)](https://mariadb.org/)
@@ -14,27 +14,17 @@
 
 **Afya Hospital Management System** is a feature-rich, web-based platform designed to digitize and streamline every aspect of hospital operations — from patient registration and appointment scheduling to billing, medical records management, and real-time staff coordination.
 
-What truly sets Afya apart is its **AI-powered Hospital Assistant**, built on Google Dialogflow, that is available 24/7 to help patients check doctor availability, book appointments, retrieve medical records, and get instant answers to their healthcare queries — all through a natural, conversational interface. No more long phone queues. No more confusion. Just seamless, intelligent healthcare at your fingertips.
-
 Whether you're a **patient** looking to book an appointment from your couch, a **doctor** managing a packed schedule and accessing encrypted patient records, or a **hospital administrator** overseeing the entire operation with rich dashboards and audit trails — Afya has you covered.
 
 ---
 
 ## ✨ Key Features
-
-### 🤖 AI-Powered Patient Assistant (Dialogflow)
-- **24/7 Conversational AI** embedded directly into the patient portal
-- Ask about doctor availability, specializations, and schedules
-- Book, reschedule, or inquire about appointments via natural language
-- Retrieve medical records and billing information conversationally
-- All chatbot interactions are **logged and auditable** by hospital admins
-
 ### 👨‍⚕️ Multi-Role Portal System
 The system supports **five distinct user roles**, each with a tailored dashboard and experience:
 
 | Role | Capabilities |
 |------|-------------|
-| **Patient** | Book appointments, view medical history, pay bills (M-Pesa & Card), submit feedback, interact with AI assistant |
+| **Patient** | Book appointments, view medical history, pay bills (M-Pesa & Card), submit feedback |
 | **Doctor** | Manage appointments, view/create medical records, manage schedules, generate invoices, record patient visits with PDF generation |
 | **Nurse** | Access relevant patient information and assist in care coordination |
 | **Hospital Staff** | Administrative support functions |
